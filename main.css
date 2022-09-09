@@ -1,0 +1,37 @@
+#ketQua1,
+#ketQua3,
+#ketQua5 {
+  width: 300px;
+  background-color: aquamarine;
+}
+
+#ketQua2 {
+  width: 300px;
+  background-color: pink;
+}
+
+button {
+  cursor: pointer;
+}
+
+#btnTinhTong {
+  background-color: red;
+  color: white;
+}
+
+#btnKetQua,
+#btnGiaiThua,
+#btnTaoDiv,
+#btnSoNguyenTo {
+  background-color: green;
+  color: white;
+}
+
+#bai4 div {
+  width: 300px;
+  height: 50px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
